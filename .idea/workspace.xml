@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7a0eb6f-f696-414d-849d-aee8ce31ee2f" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-css-course/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css-course/buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-css-course/youtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css-course/youtube.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +15,8 @@
       <list>
         <option value="package.json" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,6 +46,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrado\IdeaProjects\js_basics\html-css-course\img" />
+      <recent name="C:\Users\mrado\IdeaProjects\js_basics\html-css-course" />
+      <recent name="C:\Users\mrado\IdeaProjects\js_basics\html-css-course\intro-to-html" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +70,7 @@
       <workItem from="1665914792925" duration="2212000" />
       <workItem from="1665933961179" duration="3652000" />
       <workItem from="1666030757430" duration="2244000" />
-      <workItem from="1666194323038" duration="2499000" />
+      <workItem from="1666194323038" duration="4195000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1664992582236</created>
@@ -93,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666032933779</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <created>1666198726665</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666198726665</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
