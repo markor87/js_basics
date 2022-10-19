@@ -16,6 +16,7 @@
         <option value="package.json" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -37,6 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -60,7 +62,8 @@
       <workItem from="1665870046987" duration="301000" />
       <workItem from="1665914792925" duration="2212000" />
       <workItem from="1665933961179" duration="3652000" />
-      <workItem from="1666030757430" duration="2118000" />
+      <workItem from="1666030757430" duration="2244000" />
+      <workItem from="1666194323038" duration="2499000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1664992582236</created>
@@ -83,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666031980980</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1666032933779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666032933779</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
